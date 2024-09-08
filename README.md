@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=som3a99" alt="som3a99" /></a> </p>
 
-- 🔭 I’m currently working on [ML-DS-ResourceHub](https://github.com/Som3a99/ML-DS-ResourceHub)
+- 🔭 I’m currently working on [AI_MasteryHub](https://github.com/Som3a99/AI_MasteryHub)
 
 - 🌱 I’m currently learning **Machine Learning and Data sciences**
 
