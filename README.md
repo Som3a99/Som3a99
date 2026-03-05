@@ -75,9 +75,13 @@
 #### Tools & Platforms
 <p>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
 </p>
 
 ---
@@ -86,7 +90,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=som3a99&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy-tawny.vercel.app/?username=Som3a99&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -95,17 +99,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/som3a99">
-    <img src="https://github-readme-stats.vercel.app/api?username=som3a99&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" height="180" />
+  <a href="https://github.com/Som3a99">
+    <img src="https://github-readme-stats-two-eta-80.vercel.app/api?username=Som3a99&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
   </a>
-  <a href="https://github.com/som3a99">
-    <img src="https://streak-stats.demolab.com/?user=som3a99&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+  <a href="https://github.com/Som3a99">
+    <img src="https://streak-stats.demolab.com/?user=Som3a99&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/som3a99">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=som3a99&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" height="180" />
+  <a href="https://github.com/Som3a99">
+    <img src="https://github-readme-stats-two-eta-80.vercel.app/api/top-langs/?username=Som3a99&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" height="180" />
   </a>
 </p>
 
